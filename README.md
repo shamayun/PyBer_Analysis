@@ -22,7 +22,7 @@ Once the 2 datasets merged using left join based on the *city column* and formul
 * Rural cities have the highest average fare per ride and average per driver.
 * While urban cities lead in total rides, total revenues, they are at the bottom for average fare per ride and average fare per driver. Rural areas are on top on this 2 category
 
-<img src="https://github.com/shamayun/PyBer_Analysis/blob/main/Resources/Fig6.png" width="500"> <img src="https://github.com/shamayun/PyBer_Analysis/blob/main/Resources/Fig7.png" width="500">
+<img src="https://github.com/shamayun/PyBer_Analysis/blob/main/Resources/Fig6.png" width="450"> <img src="https://github.com/shamayun/PyBer_Analysis/blob/main/Resources/Fig7.png" width="450">
 ## Summary:
 * National average *fare per ride ($26.75)* and *average fare per driver ($21.37)* are lot higher than urban areas. To retain drivers and maintain profitability, a calibration of city fares is very much needed.
 Based on the analysis from the various data, charts, my  recommendations to Pyber CEO are: 
